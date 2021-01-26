@@ -1,11 +1,11 @@
 Heyhey! 
 
-🔭 I’m attending the WebDeveloper Course of the <a href="https://digitalcareerinstitute.org/" target="blank">Digital Career Institute</a> until spring 2022.
+🔭  I’m attending the WebDeveloper Course of the <a href="https://digitalcareerinstitute.org/" target="blank">Digital Career Institute</a> until spring 2022.
 
 
-🌱 I’m going to learn HTML, css, javascript, patience and a bunch of other things... 
+🌱  I’m going to learn HTML, css, javascript, patience and a bunch of other things... 
 
-💬  I studied systems theory / cybernetics and Music- and Media Management so I am really good with logic based stuff and I am quite savvy with all kinds of media productions and applications, and how to get them somewhere.
+💬  Before this I worked as a Gaffer or Lighting Technician in the Movies since 1998. In between I studied systems theory / cybernetics so I'm good with logic based stuff.
 
 
 👯 I’m looking to collaborate on fun stuff, but I'm quite busy, so it has to be really good fun..
