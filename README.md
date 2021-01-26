@@ -1,11 +1,14 @@
-### Hi there 👋
+Heyhey! 
 
+🔭 I’m currently learning how to code in the WebDeveloper Course of the Digital Career Institute.
+🌱 I’m currently learning HTML, css, and a bunch of other things...
+👯 I’m looking to collaborate on fun stuff, but I'm quite busy, so it has to be really good fun..
 <!--
 **bedamat/bedamat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently learning how to code in the WebDeveloper Course of the Digital Career Institute
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
