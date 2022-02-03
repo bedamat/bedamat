@@ -1,9 +1,9 @@
 Heyhey! 
 
-🔭  I’m attending a WebDeveloper Course at the <a href="https://digitalcareerinstitute.org/" target="blank">Digital Career Institute</a> until spring 2022.
+🔭  I’m using the current unusality of times to learn stuff that I wanted to learn since quite a while but couldn't 'cause I was busy somewhere on a production..
 
 
-🌱  I’m going to learn HTML, Css, JavaScript, some frameworks, patience and a bunch of other things... 
+🌱  I’m playing around with code, Touchdesigner, Ableton, DMX gear, sensors, cameras and other such tools to make things blink or do something interactive that I think might make sense, in particular while creating visual art and effects for media productions or immersive experiences.
 
 💬  Before this I worked as a Gaffer or Lighting Technician in the Movies since 1998. In between I studied systems theory and cybernetics, so I'm good with logic based stuff and complex correlations.
 
